@@ -1,0 +1,23 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\nodejs-express-mysql"
+		},
+		{
+			"path": "..\\..\\..\\demo-nodejs-mongodb-rest"
+		},
+		{
+			"path": "..\\..\\..\\node-express-mongo-example"
+		},
+		{
+			"path": "..\\..\\..\\nodejs-mongodb-atlas"
+		},
+		{
+			"path": "..\\..\\..\\expressmongodb"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+    "settings": {}
+}
