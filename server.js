@@ -74,7 +74,7 @@ const swaggerOptions = {
                 email: "info@email.com",
             },
         },
-        servers: ["http://localhost:3000"]
+        servers: ["http://localhost:3000", "https://timetrackerupc.herokuapp.com/"]
     },
     // ['.routes/*.js']
     apis: ["./app/routes/*.js"]
@@ -100,7 +100,8 @@ const options = {
             },
         },
         servers: [{
-            url: "http://localhost:3000",
+            url: "https://timetrackerupc.herokuapp.com/"
+
         }, ],
     },
     apis: ["./app/routes/*.js"],
